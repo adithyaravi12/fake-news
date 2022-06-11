@@ -19,13 +19,13 @@ A model is trained to recognize false and true news from the provided training d
 Clone the project
 
 ```bash
-  git clone https://github.com/adithyaravi12/code-scanner
+  git clone https://github.com/adithyaravi12/fake-news
 ```
 
 Go to the project directory
 
 ```bash
-  cd code-scanner
+  cd fake-news
 ```
 
 Install necessary dependencies 
