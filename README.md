@@ -51,8 +51,7 @@ Start the server
 
 ## Documentation
 
-- [Reference](https://www.youtube.com/watch?v=FPRFYYMlhyw&t=3086s)
-- [Dataset](https://github.com/cabani/MaskedFace-Net)
+- [Dataset](https://www.kaggle.com/datasets/hassanamin/textdb3?resource=download)
 
 
 
