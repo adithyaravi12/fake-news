@@ -8,7 +8,8 @@ A model is trained to recognize false and true news from the provided training d
     2. Read tehe dataset and store it as a dataframe
     3. Store the labels from the dataset as an individual dataframe named labels
     4. Now, using train_test_split from sklearn, split the test and training datasets using the 'text' and 'labels' columns only
-    5. Since this is an information retreival problem,  term frequency-inverse document frequency(tfidf) is used with the stop_words in English language and the model is trained.
+    5. Since this is an information retreival problem,  term frequency-inverse document frequency(tfidf) is 
+    used with the stop_words in English language and the model is trained.
     6. The PAC is now fitted on the training dataset and allowed to train for 50 iterations
     7. Predictions are made and the confusion matrix is displayed
 
